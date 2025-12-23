@@ -1,3 +1,8 @@
-[gd_scene format=3 uid="uid://bl4jogh3q5xf6"]
+[gd_scene load_steps=2 format=3 uid="uid://bl4jogh3q5xf6"]
+
+[ext_resource type="Script" uid="uid://ct2kyxcuxs0ax" path="res://Scripts/GridPosition.gd" id="1_ig7tw"]
 
 [node name="main" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+script = ExtResource("1_ig7tw")
