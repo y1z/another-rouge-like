@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://vg7fb884qe0"
-path="res://.godot/imported/s_dark_gray_64x64.png-dcc4da3bd45eaa7fde24567ab151b18a.ctex"
+uid="uid://cdev47bq8w1bj"
+path="res://.godot/imported/s_gray_64x64.png-e802054c5a5ff9697fd381cd723d9f04.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/s_dark_gray_64x64.png"
-dest_files=["res://.godot/imported/s_dark_gray_64x64.png-dcc4da3bd45eaa7fde24567ab151b18a.ctex"]
+source_file="res://Sprites/place-holders/s_gray_64x64.png"
+dest_files=["res://.godot/imported/s_gray_64x64.png-e802054c5a5ff9697fd381cd723d9f04.ctex"]
 
 [params]
 

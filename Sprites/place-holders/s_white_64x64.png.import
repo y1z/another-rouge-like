@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://coepclfvy1m0b"
-path="res://.godot/imported/s_pink_64x64.png-2e81075722861c2646d0f7223f8ba333.ctex"
+uid="uid://bennty0updm0w"
+path="res://.godot/imported/s_white_64x64.png-751d13a4c50cdcfdaebee33074d1c5ff.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/s_pink_64x64.png"
-dest_files=["res://.godot/imported/s_pink_64x64.png-2e81075722861c2646d0f7223f8ba333.ctex"]
+source_file="res://Sprites/place-holders/s_white_64x64.png"
+dest_files=["res://.godot/imported/s_white_64x64.png-751d13a4c50cdcfdaebee33074d1c5ff.ctex"]
 
 [params]
 

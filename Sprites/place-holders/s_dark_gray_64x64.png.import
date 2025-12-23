@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://r81mydnfa32v"
-path="res://.godot/imported/s_malibu_64x64.png-c72d912b7615e0ac2b545f198ea0dce5.ctex"
+uid="uid://vg7fb884qe0"
+path="res://.godot/imported/s_dark_gray_64x64.png-44fa5ab93b4e8df2cff6ee6a8934a656.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/s_malibu_64x64.png"
-dest_files=["res://.godot/imported/s_malibu_64x64.png-c72d912b7615e0ac2b545f198ea0dce5.ctex"]
+source_file="res://Sprites/place-holders/s_dark_gray_64x64.png"
+dest_files=["res://.godot/imported/s_dark_gray_64x64.png-44fa5ab93b4e8df2cff6ee6a8934a656.ctex"]
 
 [params]
 

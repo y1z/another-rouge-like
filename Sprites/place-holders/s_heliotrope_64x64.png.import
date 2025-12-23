@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bhyew2i3tjbvn"
-path="res://.godot/imported/s_orange_64x64.png-ab19d8e6f21cb95dc7553af935120fe8.ctex"
+uid="uid://b1ekb24upo0sy"
+path="res://.godot/imported/s_heliotrope_64x64.png-f60516a93c517f3546cc87d2b0620c68.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/s_orange_64x64.png"
-dest_files=["res://.godot/imported/s_orange_64x64.png-ab19d8e6f21cb95dc7553af935120fe8.ctex"]
+source_file="res://Sprites/place-holders/s_heliotrope_64x64.png"
+dest_files=["res://.godot/imported/s_heliotrope_64x64.png-f60516a93c517f3546cc87d2b0620c68.ctex"]
 
 [params]
 

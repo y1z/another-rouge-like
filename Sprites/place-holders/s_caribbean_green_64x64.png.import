@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3lr0iqmy6tje"
-path="res://.godot/imported/s_caribbean_green_64x64.png-8b2f34f0c84344e08c8e569484f1ed4c.ctex"
+path="res://.godot/imported/s_caribbean_green_64x64.png-4cbf8b0408c44e55fd0c718b04e7e204.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/s_caribbean_green_64x64.png"
-dest_files=["res://.godot/imported/s_caribbean_green_64x64.png-8b2f34f0c84344e08c8e569484f1ed4c.ctex"]
+source_file="res://Sprites/place-holders/s_caribbean_green_64x64.png"
+dest_files=["res://.godot/imported/s_caribbean_green_64x64.png-4cbf8b0408c44e55fd0c718b04e7e204.ctex"]
 
 [params]
 
