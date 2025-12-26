@@ -15,6 +15,12 @@ run/main_scene="uid://bl4jogh3q5xf6"
 config/features=PackedStringArray("4.5", "GL Compatibility")
 config/icon="res://icon.svg"
 
+[debug]
+
+gdscript/warnings/shadowed_variable=2
+gdscript/warnings/shadowed_variable_base_class=2
+gdscript/warnings/shadowed_global_identifier=2
+
 [display]
 
 window/size/viewport_width=1280
@@ -23,7 +29,7 @@ window/stretch/mode="canvas_items"
 
 [editor_plugins]
 
-enabled=PackedStringArray("res://addons/godot-vim/plugin.cfg")
+enabled=PackedStringArray("res://addons/godot-vim/plugin.cfg", "res://addons/simple_gdscript_formatter/plugin.cfg")
 
 [file_customization]
 
